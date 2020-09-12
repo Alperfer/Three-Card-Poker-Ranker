@@ -1,4 +1,4 @@
-# Three-Hand-Poker-Ranker
+# Three-Card-Poker-Ranker
 A 3 hand poker round generator and ranker. This is a command line based program that simulates rounds of a 3 card poker game. Each round is assumed to be played with 4 players on the table. Program generates three random cards for each player, and then ranks the hands of the players based on their card strength. The winner of each round is announced at the end.
 
 # Planned Improvements/Features
